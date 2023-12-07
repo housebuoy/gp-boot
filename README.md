@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# gp-boot
+Gp is a clean, responsive and modern website template created with React and Tailwind css. It's a professional and powerful business consulting template carefully crafted for designer, artists, company, photographer, videographer, architect etc. Gp also could easily be adapted to suit a wide range of websites.
+>>>>>>> a254d3366306153741be55c00ee3cc70586c6d15
