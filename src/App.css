@@ -1,0 +1,45 @@
+:root{
+        --swiper-theme-color: #ff45c1;
+}
+
+
+/* .swiper-lazy-preloader {
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -21px;
+    margin-top: -21px;
+    z-index: 10;
+    transform-origin: 50%;
+    box-sizing: border-box;
+    border: 4px solid green;
+    border-radius: 50%;
+    border-top-color: transparent;
+  } */
+
+  .swiper-pagination-bullet {
+    width: 10px; /* Adjust the width as needed */
+    height: 10px; /* Adjust the height as needed */
+    background-color: #ff2525; /* Set the default bullet color */
+    opacity: 0.7; /* Adjust the opacity as needed */
+    display: inline-block;
+    margin: 5px 5px; /* Adjust the spacing between bullets */
+  }
+  
+  .swiper-pagination-bullet.swiper-pagination-bullet-active {
+    background-color: #FFC451; /* Set the active bullet color */
+    opacity: 1; /* Adjust the opacity as needed */
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  .group:hover .hidden {
+    display: block; /* Show the child when parent is hovered */
+  }
+
+
+  
